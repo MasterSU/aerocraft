@@ -1,0 +1,7 @@
+usart2 golbal   0_1
+usart2 dma      0_2
+tim3            1_0
+tim2            1_1
+tim1            1_2
+sd golbal       1_3
+sd dma          2_3
